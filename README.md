@@ -11,3 +11,17 @@
   <li>🚀 I'm excited about building projects that solve real-world problems, especially in areas like data-driven applications and interactive dashboards.</li>
   <li>✨ Feel free to check out my repos or reach out for collaboration opportunities!</li>
 </ul>
+
+
+
+### 📬 Let's Connect:
+
+Feel free to reach out for collaboration, project discussions, or just to connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/erick-mwangi)
+
+### 🌐 Portfolio:
+
+Check out my portfolio for a glimpse of my projects and contributions.
+
+Happy coding! 🚀
