@@ -12,16 +12,12 @@
   <li>✨ Feel free to check out my repos or reach out for collaboration opportunities!</li>
 </ul>
 
+<h2> 📬 Let's Connect: </h2>
 
-
-### 📬 Let's Connect:
-
-Feel free to reach out for collaboration, project discussions, or just to connect!
+💡 *Open to collaborations, learning, and creating impactful projects!* 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/erick-mwangi)
-
-### 🌐 Portfolio:
-
-Check out my portfolio for a glimpse of my projects and contributions.
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white)](mailto:rickthetri20@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/ErickMwangi)
 
 Happy coding! 🚀
