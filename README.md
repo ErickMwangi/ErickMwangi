@@ -8,7 +8,7 @@
   <li> 💻 Skills: Full-Stack Development, API Integration, Data Analysis, SQL, JavaScript, Node.js, and UI/UX Design.</li>
   <li>🚀 I'm excited about building projects that solve real-world problems, especially in areas like data-driven applications and interactive dashboards.</li>
   <li>✨ Feel free to check out my repos or reach out for collaboration opportunities!</li>
-</ul> //
+</ul> 
 
 
 
